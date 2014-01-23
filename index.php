@@ -27,6 +27,6 @@
     <canvas id="canvastest" width="500" height="500"></canvas>
 <script type="text/javascript" src="excanvas.compiled.js"></script>
 <script type="text/javascript" src="main.js"></script>
-123
+123456
 </body>
 </html>
